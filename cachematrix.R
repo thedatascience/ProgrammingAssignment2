@@ -1,4 +1,5 @@
-## Functions that cache the inverse of a matrix
+## Frado Sibarani for Coursera Data Science 
+##Functions that cache the inverse of a matrix
 ##
 ## Usage example:
 ##
